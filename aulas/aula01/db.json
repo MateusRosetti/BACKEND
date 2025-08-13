@@ -1,0 +1,34 @@
+{
+  "contatos": [
+    {
+      "id": "71f7",
+      "nome": "mateus",
+      "email": "mateus.rosetti@iesb.edu.br"
+    },
+    {
+      "id": "f061",
+      "nome": "joao",
+      "email": "joao.rosetti@iesb.edu.br"
+    },
+    {
+      "id": "36b1",
+      "nome": "joao",
+      "email": "joao.rosetti@iesb.edu.br"
+    },
+    {
+      "id": "34f4",
+      "nome": "joao",
+      "email": "joao.rosetti@iesb.edu.br"
+    },
+    {
+      "id": "a206",
+      "nome": "joao",
+      "email": "joao.rosetti@iesb.edu.br"
+    },
+    {
+      "id": "310c",
+      "nome": "joao",
+      "email": "joao.rosetti@iesb.edu.br"
+    }
+  ]
+}
